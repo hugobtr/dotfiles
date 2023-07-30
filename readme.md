@@ -1,5 +1,7 @@
 # My dotfiles for daily usage
 There are my current configuration files that i use in my daily work. Feel free to use, copy, edit, redistribute, do whatever you want with my configuration files.
+## Why this configuration ?
+I only wanted a thing that is simple, lightweight and a thing that just works.
 ## Overview
 ### Neovim
 ![Neovim](assets/nvim.png)
