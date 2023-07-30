@@ -2,8 +2,8 @@
 There are my current configuration files that i use in my daily work. Feel free to use, copy, edit, redistribute, do whatever you want with my configuration files.
 ## Overview
 ### Neovim
-![Neovim](assets/neovim.png)
-### alacritty
+![Neovim](assets/nvim.png)
+### Alacritty
 ![Alacritty](assets/alacritty.png)
 ### i3 and default wallpaper
 ![i3](assets/wallpaper.png)
