@@ -6,4 +6,4 @@ mv alacritty ~/.config/
 mv nvim ~/.config/
 
 mv fonts ~/.local/share/
-mv wallpaper ~/Pictures
+mv wallpapers ~/Pictures
