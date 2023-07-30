@@ -17,7 +17,7 @@ I only wanted a thing that is simple, lightweight and a thing that just works.
 ## Installation
 - Clone this repo.
 - Execute the install script (install.sh)
-This install script will moov every configuration files into ~/.config/, add some nerd fonts in ~/.local/share/fonts/ and add some wallpapers in ~/Pictures/wallpapers.
+This install script will move every configuration files into ~/.config/, add some nerd fonts in ~/.local/share/fonts/ and add some wallpapers in ~/Pictures/wallpapers.
 Feel free to edit the install script to your liking and your needs.
 ## Thanks
 - [anthdm's Neovim configuration](https://github.com/anthdm/.nvim) for inspiration
