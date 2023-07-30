@@ -8,7 +8,10 @@ There are my current configuration files that i use in my daily work. Feel free 
 ### i3 and default wallpaper
 ![i3](assets/wallpaper.png)
 ## Requirements
-- Any Linux distribution with i3 window manager, here i'm using Devuan 4
+- Any Linux distribution, here i'm using Devuan 4
+- i3 Window Manager
+- Alacritty terminal
+- Neovim (optional) 
 ## Installation
 - Clone this repo.
 - Execute the install script (install.sh)
