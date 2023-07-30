@@ -7,6 +7,8 @@ There are my current configuration files that i use in my daily work. Feel free 
 ![Alacritty](assets/alacritty.png)
 ### i3 and default wallpaper
 ![i3](assets/wallpaper.png)
+## Requirements
+- Any Linux distribution with i3 window manager, here i'm using Devuan 4
 ## Installation
 - Clone this repo.
 - Execute the install script (install.sh)
