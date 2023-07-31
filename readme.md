@@ -14,6 +14,7 @@ I only wanted a thing that is simple, lightweight and a thing that just works.
 - i3 Window Manager
 - Alacritty terminal
 - Neovim (optional) 
+- feh (wallpaper)
 ## Installation
 - Clone this repo.
 - Execute the install script (install.sh)
