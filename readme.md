@@ -5,8 +5,8 @@ I only wanted a thing that is simple, lightweight and a thing that just works.
 ## Overview
 ### Neovim
 ![Neovim](assets/nvim.png)
-### Alacritty
-![Alacritty](assets/alacritty.png)
+### Neofetch
+![Neofetch](assets/neofetch.png)
 ### i3 and default wallpaper
 ![i3](assets/wallpaper.png)
 ## Requirements
